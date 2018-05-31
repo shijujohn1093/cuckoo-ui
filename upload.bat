@@ -1,0 +1,1 @@
+aws s3 cp ./dist s3://shijujohn1094.myapp.com --recursive --acl public-read
